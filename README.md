@@ -1,54 +1,16 @@
-# Astro Starter Kit: Basics
+Este proyecto está construido con:
 
-```
-npm create astro@latest -- --template basics
-```
+Svelte
+Svelte es un framework de JavaScript moderno que permite construir aplicaciones web interactivas y de alta velocidad con una curva de aprendizaje suave. Svelte se ejecuta en tiempo de compilación, lo que significa que su código se traduce en componentes estáticos y optimizados que se ejecutan en el navegador.
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/basics)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/s/github/withastro/astro/tree/latest/examples/basics)
+Tailwind
+Tailwind es una librería de estilos de utilidad que permite crear diseños rápidos y consistentes. Es una herramienta flexible y fácil de usar que ofrece una amplia variedad de clases y utilidades para construir rápidamente interfaces de usuario atractivas y funcionales.
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+Astro
+Astro es una biblioteca de JavaScript que permite crear componentes reutilizables y altamente personalizables para su aplicación. Con Astro, puede crear componentes basados en HTML, CSS y JavaScript que se integran perfectamente con otros componentes de la aplicación.
 
-![basics](https://user-images.githubusercontent.com/4677417/186188965-73453154-fdec-4d6b-9c34-cb35c248ae5b.png)
+Promesas
+Las promesas son una forma de manejar la asincronía en JavaScript. Una promesa representa un valor que puede estar disponible ahora, en el futuro o nunca. Las promesas permiten ejecutar código asíncrono de manera más fácil y organizada.
 
-
-## 🚀 Project Structure
-
-Inside of your Astro project, you'll see the following folders and files:
-
-```
-/
-├── public/
-│   └── favicon.svg
-├── src/
-│   ├── components/
-│   │   └── Card.astro
-│   ├── layouts/
-│   │   └── Layout.astro
-│   └── pages/
-│       └── index.astro
-└── package.json
-```
-
-Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
-
-There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
-
-Any static assets, like images, can be placed in the `public/` directory.
-
-## 🧞 Commands
-
-All commands are run from the root of the project, from a terminal:
-
-| Command                | Action                                           |
-| :--------------------- | :----------------------------------------------- |
-| `npm install`          | Installs dependencies                            |
-| `npm run dev`          | Starts local dev server at `localhost:3000`      |
-| `npm run build`        | Build your production site to `./dist/`          |
-| `npm run preview`      | Preview your build locally, before deploying     |
-| `npm run astro ...`    | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro --help` | Get help using the Astro CLI                     |
-
-## 👀 Want to learn more?
-
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+Cohere-AI
+Cohere-AI es una plataforma de inteligencia artificial que permite a los desarrolladores crear y entrenar modelos de lenguaje natural con facilidad. Cohere-AI se integra perfectamente con otras herramientas y bibliotecas, lo que permite a los desarrolladores crear soluciones de inteligencia artificial personalizadas para sus aplicaciones.
